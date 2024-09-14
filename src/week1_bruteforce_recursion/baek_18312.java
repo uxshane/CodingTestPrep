@@ -13,7 +13,7 @@ public class baek_18312 {
         int hour = Integer.parseInt(st.nextToken());
         String K = st.nextToken();
 
-        // 0 <= hour <= 24
+        // 0 <= hour <= 23
         // 0 <= minute <= 59
         // 0 <= second <= 59
 
