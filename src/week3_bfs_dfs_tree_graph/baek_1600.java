@@ -35,6 +35,4 @@ public class baek_1600 {
 
     }
 
-    static
-
 }
